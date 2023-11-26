@@ -16,11 +16,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am a researcher at the Generalizable Robotics and AI Lab (GRAIL), [CILVR Group](https://wp.nyu.edu/cilvr/), advised by [Prof. Lerrel Pinto](https://www.lerrelpinto.com/), and a second year Master’s student in Robotics at [NYU](https://engineering.nyu.edu/academics/robotics).
+Hi! I'm a researcher at the Generalizable Robotics and AI Lab (GRAIL) at NYU's [CILVR Group](https://wp.nyu.edu/cilvr/), under the mentorship of [Prof. Lerrel Pinto](https://www.lerrelpinto.com/). 
 
-My interests lie in the intersection of Core Robotics and Reinforcement Learning. I’m currently dabbling on Neuroscience-inspired Robotics.
+I am currently in my second year of pursuing a Master's degree in Robotics at [NYU](https://engineering.nyu.edu/academics/robotics).
 
-Prior, I worked with [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) on Visual SLAM (vSLAM).
+My primary focus lies at the intersection of Core Robotics and leverage Reinforcement Learning, with a current exploration into Neuroscience-inspired Robotics.
+
+Prior, I worked with [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) on Visual SLAM (vSLAM) and 3D Reconstruction.
 
 I obtained a Bachelor’s Degree in Mechanical Engineering at [Indian Institute of Technology (IIT), Indore](https://www.iiti.ac.in/), during which I delved into research themes including Humanoid Manipulators, Mechanical Biomimicry & Soft Robotics, at the [Mechatronics and Instrumentation Lab, IITI](https://iiti.ac.in/people/~palaniia/) supervised by [Prof. I.A. Palani](http://people.iiti.ac.in/~meiiti/index.php/dr-i-a-palani/).
 
