@@ -23,3 +23,5 @@ Currently in my second year pursuing a Master’s degree in Robotics at [NYU](ht
 Prior, I worked with [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) on Visual SLAM (vSLAM) and 3D Reconstruction. I obtained a Bachelor’s Degree in Mechanical Engineering at [Indian Institute of Technology (IIT), Indore](https://www.iiti.ac.in/), where I explored research themes such as Humanoid Manipulators, Mechanical Biomimicry and Soft Robotics, at the [Mechatronics & Instrumentation Lab](https://iiti.ac.in/people/~palaniia/) where I was supervised by [Prof. I.A. Palani](http://people.iiti.ac.in/~meiiti/index.php/dr-i-a-palani/).
 
 My selected prior internships include working on Flexible Robotics at the [Mechanics and Computation Lab](https://mecheng.iisc.ac.in/~rram/research/) at [Indian Institute of Science (IISc), Bangalore](https://iisc.ac.in/) with [Prof. Ramsharan Rangarajan](https://mecheng.iisc.ac.in/people/ramsharan-rangarajan/), and on Intelligent Mobility at [FEV](https://fev.io/).
+
+In my spare time, I enjoy music, tennis and reading.
