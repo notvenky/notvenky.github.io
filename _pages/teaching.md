@@ -7,5 +7,5 @@ nav: true
 nav_order: 5
 ---
 
-(Ongoing) Teaching Assistant, [CSCI-UA.480-072 Introduction to Robot Intelligence, Fall 2023](https://nyu-robot-learning.github.io/robot-intel-class-fl23/)
+Teaching Assistant, [CSCI-UA.480-072 Introduction to Robot Intelligence, Fall 2023](https://nyu-robot-learning.github.io/robot-intel-class-fl23/)
 
