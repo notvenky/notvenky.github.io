@@ -1,58 +1,112 @@
-- title: Personal Information
+- title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Venkatesh Pattabiraman
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 20th December 2000
 
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science in Robotics
-      institution: New York University
-      year: [Start Year] - [End Year]
+    - title: Master of Science
+      institution: New York University, New York, US
+      year: 2022 - Now
       description:
-        - Focus on Robotics and Artificial Intelligence
-        - Coursework included Advanced Robotics, Machine Learning, etc.
-
-- title: Skills
-  type: list
-  contents:
-    - Python, C/C++, MATLAB-Simulink, ROS
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Bachelor of Technology
+      institution: Indian Institute of Technology (IIT), Indore, India
+      year: 2022
+      description:
+        - Description 1.
+        - Description 2.
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: [Research Position]
-      institution: [Institution Name]
-      year: [Start Year] - [End Year]
+    - title: Generalizable Robotics and AI Lab | GRAIL, CILVR Group
+      institution: NYU
+      year: Ongoing
       description:
-        - Projects on Visual SLAM, Flexible Robotics, etc.
+        - Research Focus: Robotics, Deep Reinforcement Learning, Neuro-inspired Priors
+        - Advisor: Prof. Lerrel Pinto
+        - Developing bio-inspired robot locomotion algorithms with deep reinforcement learning and neuro-inspired priors.
+        - Studying the influence of Central Pattern Generators (CPGs) on modular robot morphologies.
+
+    - title: Automation and Intelligence for Civil Engineering | AI4CE Lab
+      institution: NYU
+      year: Oct 2022 - Dec 2022
+      description:
+        - Research Focus: Visual SLAM, Visual Place Recognition
+        - Advisor: Prof. Chen Feng
+        - Assisted in UNav - A vision-based localization system to aid users with blindness & low vision.
+        - Utilized a novel Visual Place Recognition algorithm to estimate user locations and directions based on images, removing the need for sensor infrastructure.
+
+    - title: Mechanics & Computation Lab
+      institution: Indian Institute of Science (IISc)
+      year: Jun 2022 - Aug 2022
+      description:
+        - Research Focus: Flexible Robotics, Geometric Mechanics
+        - Advisor: Prof. Ramsharan Rangarajan
+        - Developed Elastica’s (flexible robot arm) tip control, for maneuverability and accuracy in complex tasks.
+        - Implemented a burn wire release mechanism on Elastica, enhancing its versatility for space applications.
+
+    - title: Mechatronics & Instrumentation Lab
+      institution: Indian Institute of Technology (IIT) Indore
+      year: Jul 2021 - Dec 2021
+      description:
+        - Research Focus: Soft Robotics, Shape Memory Alloys (SMA), Aerial Robotics
+        - Advisor: Prof. I.A. Palani
+        - Designed and developed a highly dexterous 17-DoF SMA-actuated versatile gripper.
+        - Optimized displacement in a NiTi alloy-Kapton polyimide thin-film actuator for marine robotic flappers.
 
 - title: Industry Experience
   type: time_table
   contents:
-    - title: Software Engineering Intern
-      institution: [Company Name]
-      year: [Year]
+    - title: Software Intern
+      institution: FEV Group, Department: Intelligent Mobility & Software
+      year: May 2021 - Aug 2021
       description:
-        - Worked on [Project Description]
-    - title: [Other Positions]
-      institution: [Company Name]
-      year: [Year]
-      description:
-        - Description of responsibilities and achievements
+        - Studied Range Polygon for Autonomous Vehicles and Electric Automobile Quality Control.
+        - Used MATLAB-Simulink for optimizing driving range via computational path planning with road network data.
 
-- title: Teaching Roles
+    - title: Research Associate Intern
+      institution: Maschio Gaspardo & Co., Advanced Engineering
+      year: Dec 2020 - Jan 2021
+      description:
+        - Improved electric weeder performance through MATLAB-Simulink optimization to varying soil conditions.
+        - Optimized Tiller Torque vs Weeder Efficiency using Taguchi methods, expanded 4.1kWh, 48V battery’s range.
+
+
+- title: Honors and Awards
   type: time_table
   contents:
-    - title: [Teaching Role]
-      institution: [Institution Name]
-      year: [Year]
-      description:
-        - Teaching activities, courses handled, etc.
+    - year: 1921
+      items: 
+        - Nobel Prize in Physics 
+        - Matteucci Medal
+    - year: 2029
+      items: 
+        - Max Planck Medal
 
-- title: Awards and Honors
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items: 
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
   type: list
   contents:
-    - [Award Name] in [Year]
-    - [Other Awards]
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
