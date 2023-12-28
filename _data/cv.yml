@@ -2,16 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Venkatesh Pattabiraman
+      value: Albert Einstein
     - name: Date of Birth
-      value: 20th December 2000
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science
-      institution: New York University, New York, US
-      year: 2022 - Now
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
         - Description 1.
         - Description 2.
@@ -19,69 +21,52 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Bachelor of Technology
-      institution: Indian Institute of Technology (IIT), Indore, India
-      year: 2022
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
         - Description 1.
         - Description 2.
 
-- title: Research Experience
+- title: Experience
   type: time_table
   contents:
-    - title: Generalizable Robotics and AI Lab | GRAIL, CILVR Group
-      institution: NYU
-      year: Ongoing
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - Research Focus: Robotics, Deep Reinforcement Learning, Neuro-inspired Priors
-        - Advisor: Prof. Lerrel Pinto
-        - Developing bio-inspired robot locomotion algorithms with deep reinforcement learning and neuro-inspired priors.
-        - Studying the influence of Central Pattern Generators (CPGs) on modular robot morphologies.
-
-    - title: Automation and Intelligence for Civil Engineering | AI4CE Lab
-      institution: NYU
-      year: Oct 2022 - Dec 2022
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
-        - Research Focus: Visual SLAM, Visual Place Recognition
-        - Advisor: Prof. Chen Feng
-        - Assisted in UNav - A vision-based localization system to aid users with blindness & low vision.
-        - Utilized a novel Visual Place Recognition algorithm to estimate user locations and directions based on images, removing the need for sensor infrastructure.
+        - Description 1.
+        - Description 2.
 
-    - title: Mechanics & Computation Lab
-      institution: Indian Institute of Science (IISc)
-      year: Jun 2022 - Aug 2022
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
       description:
-        - Research Focus: Flexible Robotics, Geometric Mechanics
-        - Advisor: Prof. Ramsharan Rangarajan
-        - Developed Elastica's (flexible robot arm) tip control, for maneuverability and accuracy in complex tasks.
-        - Implemented a burn wire release mechanism on Elastica, enhancing its versatility for space applications.
 
-    - title: Mechatronics & Instrumentation Lab
-      institution: Indian Institute of Technology (IIT) Indore
-      year: Jul 2021 - Dec 2021
-      description:
-        - Research Focus: Soft Robotics, Shape Memory Alloys (SMA), Aerial Robotics
-        - Advisor: Prof. I.A. Palani
-        - Designed and developed a highly dexterous 17-DoF SMA-actuated versatile gripper.
-        - Optimized displacement in a NiTi alloy-Kapton polyimide thin-film actuator for marine robotic flappers.
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
 
-- title: Industry Experience
+- title: Open Source Projects
   type: time_table
   contents:
-    - title: Software Intern
-      institution: FEV Group, Department: Intelligent Mobility & Software
-      year: May 2021 - Aug 2021
-      description:
-        - Studied Range Polygon for Autonomous Vehicles and Electric Automobile Quality Control.
-        - Used MATLAB-Simulink for optimizing driving range via computational path planning with road network data.
-
-    - title: Research Associate Intern
-      institution: Maschio Gaspardo & Co., Advanced Engineering
-      year: Dec 2020 - Jan 2021
-      description:
-        - Improved electric weeder performance through MATLAB-Simulink optimization to varying soil conditions.
-        - Optimized Tiller Torque vs Weeder Efficiency using Taguchi methods, expanded 4.1kWh, 48V battery’s range.
-
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
