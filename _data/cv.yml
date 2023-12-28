@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Venkatesh Pattabiraman
     - name: Date of Birth
       value: 20th December 2000
 
@@ -53,7 +53,7 @@
       description:
         - Research Focus: Flexible Robotics, Geometric Mechanics
         - Advisor: Prof. Ramsharan Rangarajan
-        - Developed Elastica’s (flexible robot arm) tip control, for maneuverability and accuracy in complex tasks.
+        - Developed Elastica's (flexible robot arm) tip control, for maneuverability and accuracy in complex tasks.
         - Implemented a burn wire release mechanism on Elastica, enhancing its versatility for space applications.
 
     - title: Mechatronics & Instrumentation Lab
