@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: Projects
-description: #
+title: Publications
+description: Publications and unpublished projects
 nav: true
 nav_order: 1
 ---
