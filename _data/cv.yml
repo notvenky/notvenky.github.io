@@ -4,7 +4,7 @@
     - name: Full Name
       value: Venkatesh Pattabiraman
     - name: Description
-      value: Research Assistant in NYU CILVR Lab
+      value: Research Assistant at NYU CILVR Lab
     - name: Date of Birth
       value: 20th December 2000
 
@@ -15,9 +15,9 @@
       institution: GRAIL (CILVR Group), New York University, New York City, United States
       year: 2023-now 
       description:
-        - ViSk
+        - Visuo-Skin
         - AnySkin
-        - NCAP and Wriggly
+        - NCAP Quadruped and Wriggly
         - HiSS
     - title: Research Intern
       institution: Indian Institute of Science, Bangalore, India
@@ -51,10 +51,10 @@
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: Teaching Assistant, [Introduction to Robot Intelligence (CSCI-UA.480-072), Fall 2023](https://nyu-robot-learning.github.io/robot-intel-class-fl23/)
+    - title: Teaching Assistant, Introduction to Robot Intelligence (CSCI-UA.480-072), Fall 2023
       year: 2023
 
-- title: Hobbies
-  type: list
-  contents:
-    - <u>Hobbies:</u> Music, Tennis, Reading
+# - title: Hobbies
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Music, Tennis, Reading
