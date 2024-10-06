@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: About Me
 permalink: /
 subtitle: 
 
@@ -8,7 +8,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
+  address: >
+    <p>venkatesh.p@nyu.edu</p>
+    <p>New York, NY, United States</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

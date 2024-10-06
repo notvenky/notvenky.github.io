@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
+permalink: /research/
+title: Research
 description: Projects before 2024 are unpublished projects or thesis
 nav: true
 nav_order: 1
