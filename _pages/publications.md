@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications and unpublished projects
+description: Projects before 2024 are unpublished projects or thesis
 nav: true
 nav_order: 1
 ---
