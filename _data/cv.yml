@@ -30,7 +30,7 @@
       description:
         - Hand
         - Flapper
-    - title: Summer Mobility Intern
+    - title: Smart Mobility (Summer) Intern
       instution: FEV GmbH, Aachen, Germany
       year: 2021
       description:
@@ -44,13 +44,11 @@
       year: 2022-2024
       description:
         - Advised by Prof. Lerrel Pinto
-        - GPA: 3.6/4.0
     - title: Bachelor of Technology in Mechanical Engineering
       institution: Indian Institute of Technology, Indore, India
       year: 2018-2022
       description:
-        - Thesis Advisor: Prof. I.A. Palani
-        - GPA: 3.4/4.0
+        - Advised by Prof. Palani I. A.
 
 - title: Teaching Experience
   type: time_table
