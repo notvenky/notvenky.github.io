@@ -42,11 +42,15 @@
     - title: Master of Science in Robotics
       institution: New York University, New York, United States
       year: 2022-2024
-      GPA: 3.6/4.0
+      description:
+        - Advised by Prof. Lerrel Pinto
+        - GPA: 3.6/4.0
     - title: Bachelor of Technology in Mechanical Engineering
       institution: Indian Institute of Technology, Indore, India
       year: 2018-2022
-      GPA: 3.4/4.0
+      description:
+        - Thesis Advisor: Prof. I.A. Palani
+        - GPA: 3.4/4.0
 
 - title: Teaching Experience
   type: time_table
