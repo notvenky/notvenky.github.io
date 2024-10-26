@@ -8,33 +8,33 @@
     - name: Date of Birth
       value: 20th December 2000
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Graduate Research Assistant
-      institution: GRAIL (CILVR Group), New York University, New York City, United States
-      year: 2023-now 
-      description:
-        - Visuo-Skin
-        - AnySkin
-        - NCAP Quadruped and Wriggly
-        - HiSS
-    - title: Research Intern
-      institution: Indian Institute of Science, Bangalore, India
-      year: 2022
-      description:
-        - Elastica
-    - title: Undergraduate Research Assistant
-      institution: Indian Institute of Technology, Indore, India
-      year: 2021-2022
-      description:
-        - Hand
-        - Flapper
-    - title: Smart Mobility (Summer) Intern
-      instution: FEV GmbH, Aachen, Germany
-      year: 2021
-      description:
-        - Intelligent Mobility
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Graduate Research Assistant
+#       institution: GRAIL (CILVR Group), New York University, New York City, United States
+#       year: 2023-now 
+#       description:
+#         - Visuo-Skin
+#         - AnySkin
+#         - NCAP Quadruped and Wriggly
+#         - HiSS
+#     - title: Research Intern
+#       institution: Indian Institute of Science, Bangalore, India
+#       year: 2022
+#       description:
+#         - Elastica
+#     - title: Undergraduate Research Assistant
+#       institution: Indian Institute of Technology, Indore, India
+#       year: 2021-2022
+#       description:
+#         - Hand
+#         - Flapper
+#     - title: Smart Mobility (Summer) Intern
+#       instution: FEV GmbH, Aachen, Germany
+#       year: 2021
+#       description:
+#         - Intelligent Mobility
 
 - title: Education
   type: time_table
@@ -50,11 +50,11 @@
       description:
         - Advised by Prof. Palani I. A.
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Teaching Assistant, Introduction to Robot Intelligence (CSCI-UA.480-072), Fall 2023
-      year: 2023
+# - title: Teaching Experience
+#   type: time_table
+#   contents:
+#     - title: Teaching Assistant, Introduction to Robot Intelligence (CSCI-UA.480-072), Fall 2023
+#       year: 2023
 
 # - title: Hobbies
 #   type: list
