@@ -28,18 +28,18 @@
 
 @article{visk2024,
   author={Pattabiraman*, Venkatesh and Cao, Yifeng and Haldar, Siddhant and and Pinto, Lerrel and Bhirangi*, Raunaq},
-  journal={International Journal on Robotics Research (IJRR) - manuscript under preparation}, 
+  journal={International Conference on Robotics and Automation (ICRA) - under review}, 
   title={Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins},
   abstract={While visuomotor policy learning has advanced robotic manipulation, precisely executing contact-rich tasks remains challenging due to the limitations of vision in reasoning about physical interactions. To address this, recent work has sought to integrate tactile sensing into policy learning. However, many existing approaches rely on optical tactile sensors that are either restricted to recognition tasks or require complex dimensionality reduction steps for policy learning. In this work, we explore learning policies with magnetic skin sensors, which are inherently low-dimensional, highly sensitive, and inexpensive to integrate with robotic platforms. To leverage these sensors effectively, we present the ViSk framework, a simple approach that uses a transformer-based policy and treats skin sensor data as additional tokens alongside visual information. Evaluated on four complex real-world tasks involving credit card swiping, plug insertion, USB insertion, and bookshelf retrieval, ViSk significantly outperforms both vision-only and optical tactile sensing based policies. Further analysis reveals that combining tactile and visual modalities enhances policy performance and spatial generalization, achieving an average improvement of 27.5% across tasks. Videos and more details can be found on https://visuoskin.github.io.},
   website={https://visuoskin.github.io/},
-  year={2025},
+  year={2024},
   preview={visuoskin.png},
   selected={true}
 }
 
 @article{anyskin2024,
   author={Bhirangi, Raunaq and Pattabiraman, Venkatesh and Erciyes, Enes and Cao, Yifeng and Hellebrekers, Tess and Pinto, Lerrel},
-  journal={International Conference on Robotics and Automation (ICRA) - Published}, 
+  journal={International Conference on Robotics and Automation (ICRA) - under review}, 
   title={AnySkin: Plug-and-play Skin Sensing for Robotic Touch},
   abstract={While tactile sensing is widely accepted as an important and useful sensing modality, its use pales in comparison to other sensory modalities like vision and proprioception. AnySkin addresses the critical challenges that impede the use of tactile sensing -- versatility, replaceability, and data reusability. Building on the simple design of ReSkin, and decoupling the sensing electronics from the sensing interface, AnySkin makes integration as straightforward as putting on a phone case and connecting a charger. Furthermore, AnySkin is the first uncalibrated tactile-sensor to report cross-instance generalizability of learned manipulation policies. To summarize, this work makes three key contributions: first, we introduce a streamlined fabrication process and a design tool for creating an adhesive-free, durable and easily replaceable magnetic tactile sensor; second, we characterize slip detection and policy learning with the AnySkin sensor; third, we demonstrate zero-shot generalization of models trained on one instance of AnySkin to new instances, and compare it with popular existing tactile solutions like DIGIT and ReSkin. Videos and more details can be found on https://anon-anyskin.github.io.},
   website={https://any-skin.github.io/},
@@ -50,7 +50,7 @@
 
 @article{ncap2024,
   author={Bhattasali, Nikhil and Pattabiraman, Venkatesh and Pinto, Lerrel and Lindsay, Grace},
-  journal={International Conference on Learning Representations (ICLR) - Published}, 
+  journal={International Conference on Learning Representations (ICLR) - under review}, 
   title={Neural Circuit Architectural Priors for Quadruped Locomotion},
   abstract={Learning-based approaches to quadruped locomotion commonly adopt generic policy architectures like fully connected MLPs. As such architectures contain few inductive biases, it is in practice common to incorporate priors in the form of rewards, training curricula, imitation data, or trajectory generators. In nature, animals are born with highly structured connectivity in their nervous systems shaped by evolution to provide useful architectural priors. For instance, a horse can walk within hours of birth and efficiently improve its ability with practice. In this work, we explore the advantages of a biologically inspired ANN architecture for quadruped locomotion. Our architecture achieves good innate performance and better final performance than MLPs, while using less data and orders of magnitude fewer parameters. Our architecture also exhibits better generalization to task variations, even admitting deployment on a physical robot without standard sim-to-real methods. Our work shows that neural circuits can provide valuable priors for locomotion and encourages future work in neural circuit architectural priors.},
   website={https://ncap-quadruped.github.io/},
@@ -61,7 +61,7 @@
 
 @article{hiss2024,
   author={Bhirangi, Raunaq and Wang, C and Pattabiraman, Venkatesh and Majidi, Carmel and Gupta. Abhinav and Hellebrekers, Tess and Pinto, Lerrel},
-  journal={International Conference on Machine Learning (ICML) - Published}, 
+  journal={International Conference on Machine Learning (ICML)}, 
   title={Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling},
   abstract={Reasoning from sequences of raw sensory data is a ubiquitous problem across fields ranging from medical devices to robotics. These problems often involve using long sequences of raw sensor data (e.g. magnetometers, piezoresistors) to predict sequences of desirable physical quantities (e.g. force, inertial measurements).While classical approaches are powerful for locally-linear prediction problems, they often fall short when using real-world sensors. These sensors are typically non-linear, are affected by extraneous variables (e.g. vibration), and exhibit data-dependent drift. For many problems, the prediction task is exacerbated by small labeled datasets since obtaining ground-truth labels requires expensive equipment. In this work, we present Hierarchical State-Space Models (HiSS), a conceptually simple, new technique for continuous sequential prediction. HiSS stacks structured state-space models on top of each other to create a temporal hierarchy. Across six real-world sensor datasets, from tactile-based state prediction to accelerometer-based inertial measurement, HiSS outperforms prior sequence models such as causal transformers, LSTMs, S4, and Mamba by at least 23% on MSE. Our experiments further indicate that HiSS demonstrates efficient scaling to smaller datasets and is compatible with existing data-filtering techniques.},
   code={https://github.com/raunaqbhirangi/hiss},
