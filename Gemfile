@@ -23,6 +23,6 @@ group :jekyll_plugins do
 end
 
 group :other_plugins do
-    gem 'feedjira'
+    # gem 'feedjira'
     gem 'httparty'
 end
