@@ -1,3 +1,5 @@
+ruby "3.1.0"
+
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
@@ -21,6 +23,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
 end
+
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
