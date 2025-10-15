@@ -18,12 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a Graduate Research Assistant at the General Purpose Robotics and AI Lab (GRAIL) at NYU's [CILVR Group](https://wp.nyu.edu/cilvr/) with [Prof. Lerrel Pinto](https://www.lerrelpinto.com/).
+Hi! I'm a PhD student in Computer Science at Columbia University. I'm also a Founding Research Engineer at a stealth startup.
 
-I obtained my Master’s degree in Robotics at [NYU](https://engineering.nyu.edu/academics/robotics), with a research focus on multimodal representation learning and priors for exploration for robots.
+I got my Master’s degree in Robotics working at the General Purpose Robotics and AI Lab (GRAIL) at NYU's [CILVR Group](https://wp.nyu.edu/cilvr/) with [Prof. Lerrel Pinto](https://www.lerrelpinto.com/). My work focused on multimodal robot learning and tactile sensing, towards democratizing touch sensing - eFlesh(https://e-flesh.com/) and [AnySkin](https://any-skin.github.io/).
 
-I hold a Bachelor’s Degree in Mechanical Engineering from [Indian Institute of Technology (IIT), Indore](https://www.iiti.ac.in/), where I explored research themes such as Robot Dexterity, Mechanical Biomimicry and Soft Robotics, at the [Mechatronics & Instrumentation Lab](https://iiti.ac.in/people/~palaniia/) with [Prof. I.A. Palani](http://people.iiti.ac.in/~meiiti/index.php/dr-i-a-palani/).
-
-Other learning experiences of mine include working on Flexible Robotics at the [Mechanics and Computation Lab](https://mecheng.iisc.ac.in/~rram/research/) at [Indian Institute of Science (IISc), Bangalore](https://iisc.ac.in/) with [Prof. Ramsharan Rangarajan](https://mecheng.iisc.ac.in/people/ramsharan-rangarajan/), on Intelligent Mobility at [FEV](https://fev.io/) and with [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng) on Visual SLAM (vSLAM).
+I hold a Bachelor’s Degree in Mechanical Engineering from IIT Indore, where I worked on developing soft actuators for dexterity.
 
 In my spare time, I enjoy music, tennis and reading.
