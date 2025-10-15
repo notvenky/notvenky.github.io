@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm a PhD student in Computer Science at Columbia University. I'm also a Founding Research Engineer at a stealth startup.
 
-I got my Master’s degree in Robotics working at the General Purpose Robotics and AI Lab (GRAIL) at NYU's [CILVR Group](https://wp.nyu.edu/cilvr/) with [Prof. Lerrel Pinto](https://www.lerrelpinto.com/). My work focused on multimodal robot learning and tactile sensing, towards democratizing touch sensing - eFlesh(https://e-flesh.com/) and [AnySkin](https://any-skin.github.io/).
+I got my Master’s degree in Robotics working at the General Purpose Robotics and AI Lab (GRAIL) at NYU's [CILVR Group](https://wp.nyu.edu/cilvr/) with [Prof. Lerrel Pinto](https://www.lerrelpinto.com/). My work focused on multimodal robot learning and tactile sensing, towards democratizing touch sensing - [eFlesh](https://e-flesh.com/) and [AnySkin](https://any-skin.github.io/).
 
 I hold a Bachelor’s Degree in Mechanical Engineering from IIT Indore, where I worked on developing soft actuators for dexterity.
 
