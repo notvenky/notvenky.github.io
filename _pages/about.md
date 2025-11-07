@@ -26,6 +26,6 @@ I'm a Founding Research Engineer at a stealth robotics startup and a PhD student
 
 I focus on force-aware dexterity and robot learning, enabling robots to perform precise, force-dependent tasks with pinpoint accuracy. This involves both creating better sensory hardware and building self-adapting AI systems that leverage multimodal data.
 
-I got my Master’s degree in Robotics working with [Prof. Lerrel Pinto](https://www.lerrelpinto.com/) at NYU on multimodal robot learning and widely democratizing touch sensing through [eFlesh](https://e-flesh.com/) and [AnySkin](https://any-skin.github.io/). I did my undergrad at IIT Indore, where I worked on developing actuators for dexterity.
+I got my Master’s degree in Robotics working with [Prof. Lerrel Pinto](https://www.lerrelpinto.com/) at NYU on multimodal robot learning and widely democratizing touch sensing through [eFlesh](https://e-flesh.com/) and [AnySkin](https://any-skin.github.io/). I did my undergrad at IIT Indore, developing actuators for dexterity.
 
-In my spare time, I enjoy music, racquet sports, reading and sipping Yuenyeung.
+In my spare time, I enjoy music, racquet sports, reading and sipping [Yuenyeung](https://en.wikipedia.org/wiki/Yuenyeung).
