@@ -22,7 +22,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Founding Research Engineer at a stealth robotics startup and a PhD student in Computer Science at Columbia University.
+Founding Research Engineer at a stealth robotics startup | PhD student in Computer Science at Columbia University.
 
 I focus on force-aware dexterity and robot learning, enabling robots to perform precise, force-dependent tasks with pinpoint accuracy. This involves both creating better sensory hardware and building self-adapting AI systems that leverage multimodal data.
 
